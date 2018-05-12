@@ -1,0 +1,29 @@
+_repo: Spherical-Trigonometry--For-the-Use-of-Colleges-and-Schools_19770
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Todhunter, I. (Isaac)
+    alias: Todhunter, Isaac
+    birthdate: 1820
+    deathdate: 1884
+    gutenberg_agent_id: '8873'
+    url: http://www.gutenberg.org/2009/agents/8873
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Todhunter
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2006-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spherical trigonometry'
+- !lcc 'QA'
+title: 'Spherical Trigonometry: For the Use of Colleges and Schools'
+url: http://www.gutenberg.org/ebooks/19770
